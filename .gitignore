@@ -1,0 +1,21 @@
+# C++ 编译产物
+build/
+*.o
+*.out
+*.exe
+
+# Python 相关
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+*.egg-info/
+
+# 编辑器配置
+.vscode/
+.idea/
+
+# 日志文件
+*.log
